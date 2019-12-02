@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-sqlserver-windowsauthentication",
+  "version": "1.0.0",
+  "description": "Access SQL Server databases with Windows Authentication by using mssql and msnodesqlv8 modules",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdeshoOraham/NodeJS-SQLServer-WindowsAuthentication.git"
+  },
+  "keywords": [
+    "SQL",
+    "windowsauth",
+    "mssql",
+    "msnodesqlv8",
+    "nodejs"
+  ],
+  "author": "Odesho Oraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OdeshoOraham/NodeJS-SQLServer-WindowsAuthentication/issues"
+  },
+  "homepage": "https://github.com/OdeshoOraham/NodeJS-SQLServer-WindowsAuthentication#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "msnodesqlv8": "^0.8.6",
+    "mssql": "^6.0.1",
+    "npm": "^6.13.1"
+  }
+}
