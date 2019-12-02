@@ -1,6 +1,6 @@
 # NodeJS-SQLServer
 
-**Access SQL Server database using NodeJS/Express framework and mssql module**
+**Access SQL Server database using NodeJS/Express framework and mssql/msnodesqlv8 modules**
 
 **dbconfig.js**
 
@@ -22,7 +22,7 @@ module.exports = {
 
 **app.js**
 
-> The app has the needed modules including dbconfig.js and mssql and msnodesqlv8
+> The app has the needed modules including dbconfig.js, express, mssql and msnodesqlv8
 
 ```javascript
 // app.js
