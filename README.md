@@ -1,4 +1,4 @@
-# NodeJS-SQLServer
+# NodeJS-SQLServer-WindowsAuthentication
 
 **Access SQL Server database using NodeJS/Express framework and mssql/msnodesqlv8 modules**
 
